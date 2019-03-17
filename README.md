@@ -1,6 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/majdicosta/angular7/badge.svg?branch=master)](https://coveralls.io/github/majdicosta/angular7?branch=master)
 
-[![Build Status](https://travis-ci.org/majdicosta/angular7.svg?branch=master)](https://travis-ci.org/majdicosta/angular7)
+[![Build Status](https://travis-ci.org/majdicosta/angular7.svg?branch=travis-conf)](https://travis-ci.org/majdicosta/angular7)
 
 # Angular7
 
