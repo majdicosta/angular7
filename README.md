@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/majdicosta/angular7/badge.svg?branch=master)](https://coveralls.io/github/majdicosta/angular7?branch=master)
+
 # Angular7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
